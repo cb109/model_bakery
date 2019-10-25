@@ -1,3 +1,4 @@
+"""Model Bakery module configuration."""
 __version__ = '1.0.1'
 __title__ = 'model_bakery'
 __author__ = 'Vanderson Mota'
